@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/PolymathNetwork/polymath-token-distribution.svg?branch=master)](https://travis-ci.org/PolymathNetwork/polymath-token-distribution) <a href="https://t.me/polymathnetwork" target="_blank"><img src="https://img.shields.io/badge/50k+-telegram-blue.svg"></a>
 
-Token distribution smart contract/interface based on the Ethereum contracts by Polymath, but designed to work in concert with X for the X private & presale distribution.
+Token distribution smart contract/interface based on the Ethereum contracts by Polymath, designed to work in concert with X for the X private & presale distribution on Binance Smart Chain.
 
 ![XCoin](Polymath.png)
 
