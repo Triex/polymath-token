@@ -4,6 +4,8 @@
 
 Token distribution smart contract/interface based on the Ethereum contracts by Polymath, designed to work in concert with X for the X private & presale distribution on Binance Smart Chain.
 
+*Drafting, move to private repo-
+
 ![XCoin](Polymath.png)
 
 Check out [xCoin.com](https://xcoin.com) for further details.
