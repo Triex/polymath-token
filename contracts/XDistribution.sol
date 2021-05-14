@@ -15,9 +15,9 @@ contract PolyDistribution is Ownable {
 
   PolyToken public POLY;
 
-  uint256 private constant decimalFactor = 10**uint256(18);
+  uint256 private constant decimalFactor = 10**uint256(9);
   enum AllocationType { PRESALE, FOUNDER, AIRDROP, ADVISOR, RESERVE, BONUS1, BONUS2, BONUS3 }
-  uint256 public constant INITIAL_SUPPLY   = 1000000000 * decimalFactor;
+  uint256 public constant INITIAL_SUPPLY   = 3000000000000 * decimalFactor; // to update other lines
   uint256 public AVAILABLE_TOTAL_SUPPLY    = 1000000000 * decimalFactor;
   uint256 public AVAILABLE_PRESALE_SUPPLY  =  230000000 * decimalFactor; // 100% Released at Token Distribution (TD)
   uint256 public AVAILABLE_FOUNDER_SUPPLY  =  150000000 * decimalFactor; // 33% Released at TD +1 year -> 100% at TD +3 years
