@@ -1,24 +1,24 @@
-# Polymath (POLY) Token
+# X Token Distribution
 
 [![Build Status](https://travis-ci.org/PolymathNetwork/polymath-token-distribution.svg?branch=master)](https://travis-ci.org/PolymathNetwork/polymath-token-distribution) <a href="https://t.me/polymathnetwork" target="_blank"><img src="https://img.shields.io/badge/50k+-telegram-blue.svg"></a>
 
-The Ethereum contracts for the [Polymath](https://polymath.network) token  (POLY) and token distribution.
+Token distribution smart contract/interface based on the Ethereum contracts by Polymath, but designed to work in concert with X for the X private & presale distribution.
 
-![Polymath](Polymath.png)
+![XCoin](Polymath.png)
 
-Check out [polymath-core](https://github.com/PolymathNetwork/polymath-core) for details on how POLY is used to power the Polymath Securities Token Platform.
+Check out [xCoin.com](https://xcoin.com) for further details.
 
-# Live on Ethereum
+# Live on Binance Smart Chain
 
-The contracts are currently available on both Ethereum mainnet and testnet (ropsten).
+The contracts are soon to be available on both Binance Smart Chain mainnet and testnet.
 
 ## Mainnet
-Poly Token: [0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec](https://etherscan.io/address/0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec)
+X Token: [0x99](https://bscscan.com/address/0x99)
 
-Token Distribution: [0x105b2b74fe6de95b68d435f3a3bc8ace03cf1658](https://etherscan.io/address/0x105b2b74fe6de95b68d435f3a3bc8ace03cf1658)
+Token Distribution: [0x10](https://bscscan.com/address/0x10)
 
 ## Testnet
 
-Poly Token: [0xcCeAE97b9EE2f89E62367bf95d970678a5c59958](https://ropsten.etherscan.io/address/0xcceae97b9ee2f89e62367bf95d970678a5c59958#code)
+X Token: [0xcx](https://testnet.bscscan.com/address/0xcx#code)
 
-Token Distribution: [0x75e2b469d92e90aeca511be20384af83c0578646](https://ropsten.etherscan.io/address/0x75e2b469d92e90aeca511be20384af83c0578646#code)
+Token Distribution: [0x7](https://testnet.bscscan.com/address/0x7#code)
